@@ -1,4 +1,5 @@
 # F24Launcher
+<img width="512" height="512" alt="icon" src="https://github.com/user-attachments/assets/a2654cbc-6e02-4792-9f67-5b6189262a27" />
 
 A small, private launcher for **Minecraft: Java Edition**, built by one person and shared with
 friends.
@@ -6,15 +7,7 @@ friends.
 This repository hosts the **released installers and the modpacks we share**. The launcher's source
 code is kept in a private repository — this is a personal project, not a product.
 
-<img width="1920" height="1033" alt="{798377A9-4B63-4D61-9D70-7BC6B4181642}" src="https://github.com/user-attachments/assets/2b99184d-e4f1-4eb9-8d24-0d2e3ad0119d" />
-
-<img width="1920" height="1033" alt="{365EF8F1-47B7-44ED-8F34-6C96619B75DF}" src="https://github.com/user-attachments/assets/73d43884-91a1-423c-aff3-6c764325b540" />
-
-<img width="1920" height="1035" alt="{3F8DC9BF-C947-477C-A269-66E98F165DDD}" src="https://github.com/user-attachments/assets/0721a16d-8d7d-42ba-affe-90e3f4985ab1" />
-
-<img width="1920" height="1034" alt="{7AD7E5E3-B915-415C-9930-8886DD236C8E}" src="https://github.com/user-attachments/assets/5c67bb5b-7405-451e-a5ae-c6dbff5bc5a2" />
-
-
+<img width="1920" height="1011" alt="{2898FBFC-A43E-4180-A45C-8771654A322C}" src="https://github.com/user-attachments/assets/fa3e17cf-338b-4125-bd0d-915982a56719" />
 
 ## What it does
 
